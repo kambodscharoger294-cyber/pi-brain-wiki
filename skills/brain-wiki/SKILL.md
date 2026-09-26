@@ -1,6 +1,7 @@
 ---
 name: brain-wiki
 description: Kuratiertes Wissens-Wiki (OKF-Bundle) führen und abfragen — Seiten anlegen/aktualisieren, Ingest, Query mit Zitaten, Lint. Nutzen, wenn Wissen dauerhaft versioniert werden soll oder die Frage das Wiki als Quelle verdient.
+disable-model-invocation: true
 ---
 
 # Brain-Wiki
