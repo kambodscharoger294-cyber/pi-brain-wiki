@@ -15,7 +15,7 @@ pi-brain-wiki/
 ## Installieren
 
 ```bash
-pi install git:github.com/USER/pi-brain-wiki
+pi install https://github.com/kambodscharoger294-cyber/pi-brain-wiki
 # oder lokal:
 pi install /pfad/zu/pi-brain-wiki
 ```
