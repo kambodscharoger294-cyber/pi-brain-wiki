@@ -35,5 +35,8 @@ Wiki-Ort anpassen: Umgebungsvariable `PI_BRAIN_WIKI_DIR` setzen (Default: `~/wik
 
 ## Zusammen mit mnemon
 
-mnemon = episodisch („was ist passiert"), Wiki = kuratiert + versioniert („was weiß ich").
-Fakt taucht in mehreren Sessions auf → Wiki-Seite.
+Die ideale Ergänzung ist das Paket [pi-mnemon](https://github.com/kambodscharoger294-cyber/pi-mnemon):
+- **mnemon** = episodisch („was ist passiert, Entscheidungen, Präferenzen“)
+- **Wiki** = kuratiert + versioniert („was weiß ich, Architektur, Spezifikationen“)
+
+Fakt taucht in mehreren Sessions auf → der Agent überführt es auf eine Wiki-Seite.
